@@ -200,7 +200,7 @@
 
 @media (max-width: 599px) {
     .sun-hero {
-        background-image: url(https://artsolio.com/wp-demos/sudrift-coffee/wp-content/uploads/2025/08/coffee-pour-small.webp) !important;
+        background-image: url(/wp-demos/sundrift-coffee/wp-content/uploads/2025/08/coffee-pour-small.webp) !important;
         margin-top: 0;
     }
 
