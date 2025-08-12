@@ -1,0 +1,34 @@
+# OS/system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Node & build output (if you ever add build tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+
+# Local dev config (if any)
+*.local
+*.env
+*.env.*
+.vscode/
+
+# SASS/SCSS caches (if using pre-processors later)
+.sass-cache/
+*.map
+
+# Backup or temp files
+*.bak
+*.tmp
+*.swp
+*.swo
+*.orig
+
+# Ignore compiled CSS if you're committing only source
+# (uncomment if you want to exclude compiled CSS)
+# style.css
+# style.min.css
